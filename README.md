@@ -6,13 +6,13 @@ Implementation of [YuheiNakasaka/sayhuuzoku](https://github.com/YuheiNakasaka/sa
 
 ```
 $ cargo run -- -c 2
-月淫乱
+ザ・エゴイストセレブコレクション
 
 $ cargo run -- -c 3
-セレブサークル月ちゃり
+アロマテラスぇちちバナナ
 
 $ cargo run -- -c 4
-INO-遊園PLAYSTAGE
+幽玄空港白書アナル
 ```
 
 ## Installation
